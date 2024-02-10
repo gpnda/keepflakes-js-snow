@@ -1,5 +1,7 @@
 # Snowflakes that pile up
 
+Contributions are welcome
+
 - build on canvas
 - vanilla js
 
