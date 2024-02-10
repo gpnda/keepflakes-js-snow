@@ -15,3 +15,9 @@ Lum.ru
 DEMO:
 https://lum.ru/pileupsnowflakes/
 
+
+![Snowflakes that pile up](https://lum.ru/pileupsnowflakes/screenshot01.png)
+
+
+
+![Snowflakes that pile up](https://github.com/gpnda/keepflakes-js-snow/blob/master/screenshot01.png?raw=true)                          
